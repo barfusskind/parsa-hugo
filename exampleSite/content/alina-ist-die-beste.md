@@ -2,7 +2,6 @@
 categories = []
 date = 2020-02-06T23:00:00Z
 description = "Kleine Beschreibung wie cool die Alina ist."
-draft = true
 image = "/images/masonary-post/post-11.jpg"
 tags = []
 title = "Alina ist die beste"
